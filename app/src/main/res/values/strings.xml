@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">NewApplication</string>
+    <string name="share">Share</string>
+    <string name="next">Next</string>
+    <string name="DesiMemes">DesiMemes</string>
+    <string name="todo">TODO</string>
+    <string name="MemeViewer">MemeViewer</string>
+</resources>
